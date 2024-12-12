@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OscarApp</string>
+    <string name="diretor_activity_label">Diretor Activity</string>
+    <string name="login_activity_label">Login Activity</string>
+    <string name="filme_activity_label">Filme Activity</string>
+    <string name="welcome_activity_label">Welcome Activity</string>
+    <string name="confirmar_voto_activity_label">Confirmar Voto Activity</string>
+    <string name="item_filme_activity_label">Item de Filme</string>
+</resources>
